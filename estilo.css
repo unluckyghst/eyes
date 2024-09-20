@@ -4,12 +4,39 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: Helvetica, sans-serif;
 }
 
 .pag-inicial{
-    background-color: #9698d4;
+    background-color: #9a9ece;
+    padding: 80px;
+}
+
+div.pag-inicial{
+    border-radius: 50px;
+}
+
+.eyes2.png{
+    border-radius: 40%;
 }
 
 .pag-inicial img {
     width: 250px;
+    border-radius: 50%;
+}
+
+.botoes a {
+    text-decoration: none;
+    background-color: #7e6bb0;
+    font-size: 20px;
+    color: #2e1257;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: outset;
+}
+
+.botoes {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
