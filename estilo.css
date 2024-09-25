@@ -40,3 +40,18 @@ div.pag-inicial{
     flex-direction: column;
     gap: 20px;
 }
+
+.caixa-de-login {
+    background-color: #9a9ece;
+    padding: 80px;
+} 
+
+div.caixa-de-login {
+    border-radius: 50px;
+}
+
+.caixa-de-login img {
+    width: 250px;
+    border-radius: 50%;
+    margin-top: 100px;
+}
