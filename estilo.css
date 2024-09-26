@@ -44,14 +44,48 @@ div.pag-inicial{
 .caixa-de-login {
     background-color: #9a9ece;
     padding: 80px;
+    border-radius: 20px;
+    margin-top: 100px;
 } 
 
-div.caixa-de-login {
-    border-radius: 50px;
-}
+.caixa-de-login input{
+    width: 200px;
+    height: 30px;
+    font-size: 1.1rem;
 
-.caixa-de-login img {
-    width: 250px;
-    border-radius: 50%;
-    margin-top: 100px;
-}
+    border-radius: 50px;
+    border-color:#53427f;
+    border-width: 5px;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    }
+
+div.caixa-de-login{
+    border-radius: 50px;
+    }
+    
+.caixa-de-cadastro {
+        background-color: #9a9ece;
+        padding: 80px;
+        border-radius: 20px;
+        margin-top: 80px;
+    } 
+    
+.cadastro input {
+        width: 200px;
+        height: 30px;
+        font-size: 1.1rem;
+    
+        border-radius: 50px;
+        border-color:#53427f;
+        border-width: 5px;
+        
+        padding-left: 10px;
+        padding-right: 10px;
+        }
+    
+div.cadastro {
+        border-radius: 50px;
+        }
+        
