@@ -88,4 +88,27 @@ div.caixa-de-login{
 div.cadastro {
         border-radius: 50px;
         }
+
+section {
+        max-width: 600px;
+        column-count: 6;
+        padding: 28px;
+        margin: 0 auto;
+        }
+    
+        .card {
+            margin-bottom: 30px;
+            transition: all linear 200ms;
+            break-inside: avoid-column;
+            border-radius: 17px;
+        }
+        
+        .card:hover img {
+            transform: scale(1.04);
+        }
+
+        .card img {
+            width: 150%;
+            transition: all linear 200ms;
+        }
         
