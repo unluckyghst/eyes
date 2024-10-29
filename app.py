@@ -35,3 +35,14 @@ def configuração():
 # Parte principal do programa em Python
 if __name__=='__main__':
     app.run(debug=True)
+
+@app.route('/verificar-login', methods=['POST'])
+def verificar_login();
+
+username = request.form['username']
+password = request.form['password']
+
+if username in usuarios and usuarios [username] == password:
+    return f"Bem Vindo, {username}!"
+    else:
+        return "Usuário ou senha inválidos."
