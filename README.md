@@ -1,7 +1,5 @@
-# eyes
-
-# App Harmony
-Neste repositório está implementado o sistema Harmony, um site para ouvir musica como um spotfy da vida.
+# Eyes
+Neste repositório está implementado o sistema Eyes, um site inspirado no pinterest, feito para ter inspirações e para ouvir musica como um spotfy da vida.
 
 
 ## Como instalar o sistema 
@@ -40,7 +38,7 @@ Neste repositório está implementado o sistema Harmony, um site para ouvir musi
 ### Configurando  GIT 
 1. No terminal digital os comandos: 
 
-` git config user.name seu_usuario `
+`git config user.name seu_usuario`
 
 ` git config user.email seu _nome@gmail.com`
 
