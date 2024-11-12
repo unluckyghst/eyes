@@ -1,5 +1,5 @@
 # Eyes
-Neste repositório está implementado o sistema Eyes, um site inspirado no pinterest, feito para ter inspirações e para ouvir musica como um spotfy da vida.
+Neste repositório está implementado o sistema Eyes, um site inspirado no pinterest, feito para ter inspirações e para incentivar a criatividade.
 
 
 ## Como instalar o sistema 
